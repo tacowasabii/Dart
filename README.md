@@ -22,5 +22,5 @@ https://dartpad.dev
 ## 다트 SDK 설치 (Mac)
 brew tap dart-lang/dart. 
 brew install dart. 
-dart --version (버전 확인). 
-https://dart.dev/get-dart. 
+dart --version (버전 확인)<br>
+https://dart.dev/get-dart
